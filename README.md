@@ -52,6 +52,8 @@ Learn more: [Visual Studio Code User Interface](https://code.visualstudio.com/do
 
 - Command pallette
 - Panel
+hjklj
+jklj
 
 
 ## Command Palette
